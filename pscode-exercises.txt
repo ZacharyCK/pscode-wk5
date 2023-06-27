@@ -24,12 +24,23 @@ Result
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
+ 
+VARIABLES:
+Number 1
+Number 2
+Number 3
+Number 4
+Number 5  
+SUM = Number 1 + Number 2 + Number 3 + Number 4 + Number 5
+AVERAGE = SUM / 5
+MINIMUM = Number 1
+MAXIMUM = Number 1
+FOR EACH Number 
+	IF Number > MINIMUM THEN
+		MINIMUM = Number
+FOR EACH Number
+	IF Number > MAXIMUM THEN
+		MAXIMUM = Number
 
-a) Read in 5 separate numbers.   
-b) Calculate the average of the five numbers.
-c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
-d) Write out the results found from steps b and c with a message describing what they are
-
-(Your pseudocode here)
 
 -- END --
